@@ -1,6 +1,6 @@
 # Gauge widget
 ## Description
-Gauge widget in html5 and pure js.
+Gauge widget in html5 and pure JavaScript.
 ## Usage
 Include the supplied JS file.
 ```html
