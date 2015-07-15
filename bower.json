@@ -1,0 +1,6 @@
+{
+  "name": "gauge",
+  "main": [
+    "src/gauge.min.js"
+  ]
+}
