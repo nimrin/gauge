@@ -3,10 +3,9 @@
 Gauge widget in html5 and pure js.
 ## Usage
 Include the supplied JS file.
-  ```html
-  <script type='text/javascript' src='src/gauge.min.js'></script>
-  ```
-    
+```html
+<script type='text/javascript' src='src/gauge.min.js'></script>
+```
 #### via bower:
 ```
 $ bower install gauge
