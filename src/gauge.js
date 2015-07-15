@@ -1,3 +1,11 @@
+/*
+ * gauge
+ *
+ * gauge widget
+ *
+ * (c) 2015 Alexandra Shatalina
+ * License: MIT
+ */
 (function() {
     function Gauge(canvas, opts) {
         var angleDegrees, angleDelta;
