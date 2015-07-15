@@ -4,11 +4,11 @@ Gauge widget in html5 and pure js.
 ## Usage
 #### via bower:
 ```
-$ bower install nimrin-gauge
+$ bower install gauge
 ```
 #### via npm:
 ```
-$ npm install nimrin-gauge
+$ npm install gauge
 ```
 ###Options
 ##Demo 
