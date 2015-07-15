@@ -1,4 +1,5 @@
-# Gauge
+# Gauge widget
+## Description
 Gauge widget
-
-Demo http://plnkr.co/edit/atbH2zDoNqXeaAtppKJT?p=preview
+## Usage
+#Demo http://plnkr.co/edit/atbH2zDoNqXeaAtppKJT?p=preview
