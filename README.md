@@ -3,7 +3,7 @@
 Gauge widget in html5 and pure js.
 ## Usage
 Include the supplied JS file.
-  ```
+  ```html
   <script type='text/javascript' src='src/gauge.min.js'></script>
   ```
     
