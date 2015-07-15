@@ -2,9 +2,14 @@
 ## Description
 Gauge widget in html5 and pure js.
 ## Usage
-var gauge = new Gauge(canvas, {});
-gauge.render([10, 20, 30, 40, 50, 60], 40, 50);
-gauge.renderValue(20);
-### options
+#### via bower:
+```
+$ bower install nimrin-gauge
+```
+#### via npm:
+```
+$ npm install nimrin-gauge
+```
+###Options
 ##Demo 
 http://plnkr.co/edit/atbH2zDoNqXeaAtppKJT?p=preview
